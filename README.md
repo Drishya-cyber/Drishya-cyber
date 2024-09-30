@@ -15,8 +15,8 @@ Check out all my projects [here](#).
 ---
 
 ## Connect with Me
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **Email**: [youremail@example.com](#)
+- **LinkedIn**: [https://www.linkedin.com/in/drishya-kumar-45381020b/](#)
+- **Email**: [kumardrishya69@gmail.com](#)
 
 ---
 
