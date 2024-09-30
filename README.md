@@ -10,7 +10,7 @@
 ---
 
 ## 🖥 Projects
-Check out all my projects [https://github.com/Drishya-cyber](#).
+Check out all my projects [here](https://github.com/Drishya-cyber).
 
 ---
 
