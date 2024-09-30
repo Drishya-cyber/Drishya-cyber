@@ -54,8 +54,11 @@ Check out all my projects [https://github.com/Drishya-cyber](#).
 </p>
 
 ---
-
 ## 📜 Certificates
-- **[Certificate in Web Development](#)**: Issued by [Institution Name](#) on Date.
-- **[Certificate in JavaScript](#)**: Issued by [Institution Name](#) on Date.
-- **[Certificate in React Development](#)**: Issued by [Institution Name](#) on Date.
+- **Certificate in HTML Essential Training**: ![LinkedIn Learning](https://img.shields.io/badge/LinkedIn%20Learning-%230077B5.svg?style=flat&logo=linkedin&logoColor=white) **June 2023**
+- **Certificate in CSS Essential Training**: ![LinkedIn Learning](https://img.shields.io/badge/LinkedIn%20Learning-%230077B5.svg?style=flat&logo=linkedin&logoColor=white) **June 2023**
+- **Certificate in  Beginning C++ Programming**: ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=Udemy&logoColor=white) **April 2024**
+- **Certificate in Introduction to Front-end Development**: ![SkillUp](https://img.shields.io/badge/SkillUp-1DA1F2?style=flat&logo=simplilearn&logoColor=white) **April 2024**
+- **Certificate in Privacy and Security in online Social Media**: ![NPTEL](https://img.shields.io/badge/NPTEL-FF9933?style=flat&logo=gov&logoColor=white) **April 2024**
+
+
