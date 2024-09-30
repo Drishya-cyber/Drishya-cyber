@@ -10,13 +10,13 @@
 ---
 
 ## 🖥 Projects
-Check out all my projects [here](https://github.com/Drishya-cyber).
+Check out all my projects [here](https://github.com/Drishya-cyber?tab=repositories).
 
 ---
 
 ## Connect with Me
-- **LinkedIn**: [https://www.linkedin.com/in/drishya-kumar-45381020b/](#)
-- **Email**: [kumardrishya69@gmail.com](#)
+- **LinkedIn**: [Drishya Kumar](https://www.linkedin.com/in/drishya-kumar-45381020b/)
+- **Email**: [Drishya Kumar](kumardrishya69@gmail.com)
 
 ---
 
